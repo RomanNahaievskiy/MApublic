@@ -1,1 +1,0 @@
-console.log('Це файл : scripts.js');
